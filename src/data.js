@@ -36,7 +36,7 @@ export const nav = [
 
 export const banner = {
   logo: Logo,
-  titlePart1: 'Seja bem-vindo',
+  titlePart1: 'Bem-vindo',
   titlePart2: 'à',
   titlePart3: ' VSGOLD.',
   subtitle:
