@@ -40,7 +40,7 @@ export const banner = {
   titlePart2: 'à',
   titlePart3: ' VSGOLD.',
   subtitle:
-    'O Alcides paga 10 mensalidades e o triplo de manutencao.',
+    '',
   textBtn: 'Join Now',
   img: '',
 };
